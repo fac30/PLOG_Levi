@@ -15,11 +15,11 @@ Every week, update the file linked for that week with your reflections and examp
 On the following Monday, the Founders and Coders team will review your update and record feedback.
 
 ## Weekly Learnings
-- Week 1. Server
-- Week 2. Database
-- Week 3. Authentication
-- Week 4. Server-side app
-- Week 5. Client-side app
-- Week 6. Full-stack app
-- Week 7-9. In-House Project
-- Week 10-12. Tech for Better Project
+- [Week 1. Server](https://github.com/fac28/progress-log/blob/main/Week_1.md)
+- [Week 2. Database](https://github.com/fac28/progress-log/blob/main/Week_2.md)
+- [Week 3. Authentication](https://github.com/fac28/progress-log/blob/main/Week_3.md)
+- [Week 4. Server-side app](https://github.com/fac28/progress-log/blob/main/Week_4.md)
+- [Week 5. Client-side app](https://github.com/fac28/progress-log/blob/main/Week_5.md)
+- [Week 6. Full-stack app](https://github.com/fac28/progress-log/blob/main/Week_6.md)
+- [Week 7-9. In-House Project](https://github.com/fac28/progress-log/blob/main/In-House-Project.md)
+- [Week 10-12. Tech for Better Project](https://github.com/fac28/progress-log/blob/main/Tech-For-Better-Project.md)
