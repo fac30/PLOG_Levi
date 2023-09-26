@@ -6,13 +6,17 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 
 ## Assessment
  ### 1. Show evidence of a learning outcome you have achieved this week.
-> **[Learning outcome...]**  
-> [your evidence here]
+ ### Conditionally set ports for our server based on the runtime environment  
+
+```js
+const PORT = process.env.PORT || 3000;
+server.listen(PORT, () => console.log(`Listening at http://localhost:${PORT}`));
+```
 
  ### 2. Show an example of a learning outcome you have struggled with and/or would like to re-visit.
-### Write tests with the built-in Node Test Runner
-> [**Learning outcome...**]  
-> [your evidence here]
+ ### Read files synchronously and asynchronously using Node’s fs module 
+
+ We didn't use the fs module in this project, so it would be good to revisit this and use it in a future project.
 
 
 ## Feedback
