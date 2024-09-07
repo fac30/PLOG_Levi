@@ -1,8 +1,8 @@
 # Progress Log
 
 ## The purpose of the Progress Log
-Throughout your time on the 12 week training block, all apprentices are required to keep a Progress Log as part of the programme. 
-The purpose of the progress log is to enable apprentices to reflect on their learning week by week, identify strengths and areas for development, and to receive feedback on their progress from the Course Facilitators in order to improve.  
+Throughout your time on the 15 week training block, all students are required to keep a Progress Log as part of the programme. 
+The purpose of the progress log is to enable students to reflect on their learning week by week, identify strengths and areas for development, and to receive feedback on their progress from the Course Facilitators in order to improve.  
 
 This progress log must be **updated every Friday** as a reflection activity on the previous week's learning outcomes and **ready for review by Monday morning**.
 
@@ -30,5 +30,3 @@ On the following Monday, the Founders and Coders team will review your update an
 - [Week 13](/Week_13.md)
 - [Week 14](/Week_14.md)
 - [Week 15](/Week_15.md)
-
-
