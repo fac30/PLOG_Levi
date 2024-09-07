@@ -9,7 +9,7 @@ This progress log must be **updated every Friday** as a reflection activity on t
 ## Using this template
 Follow these steps to create your own Progress Log:
 - Click 'Use this template' and select 'Create a new repository'
-- Rename the new repository following this convention: **_your-name_--progress-log**
+- Rename the new repository following this convention: **PLOG_your-name**
 
 Every week, update the file linked for that week with your reflections and examples of your learnings.
 On the following Monday, the Founders and Coders team will review your update and record feedback.
