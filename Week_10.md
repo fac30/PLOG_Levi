@@ -1,8 +1,6 @@
 ## Guidance
 Answer the following questions considering the learning outcomes for
-- [Week 4](https://learn.foundersandcoders.com/course/syllabus/developer/project-2-week-1/learning-outcomes/)
-- [Week 5](https://learn.foundersandcoders.com/course/syllabus/developer/project-2-week-2/schedule/)
-- [Week 6](https://learn.foundersandcoders.com/course/syllabus/developer/project-2-week-3/learning-outcomes/)
+- [Week 010](https://learn.foundersandcoders.com/course/syllabus/developer/week10-project05-DOTNET-intro/learning-outcomes/)
 
 Make sure to record evidence of your processes. You can use code snippets, screenshots or any other material to support your answers.
 

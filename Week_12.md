@@ -1,8 +1,6 @@
 ## Guidance
 Answer the following questions considering the learning outcomes for
-- [Week 7](https://learn.foundersandcoders.com/course/syllabus/developer/project-1-server/learning-outcomes/)
-- [Week 8](https://learn.foundersandcoders.com/course/syllabus/developer/project-1-frontend/learning-outcomes/)
-- [Week 9](https://learn.foundersandcoders.com/course/syllabus/developer/project-1-test-deploy/learning-outcomes/)
+- [Week 012](https://learn.foundersandcoders.com/course/syllabus/developer/week12-project05-DOTNET-deploy/learning-outcomes/)
 
 Make sure to record evidence of your processes. You can use code snippets, screenshots or any other material to support your answers.
 
