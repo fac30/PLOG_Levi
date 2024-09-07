@@ -15,7 +15,20 @@ Every week, update the file linked for that week with your reflections and examp
 On the following Monday, the Founders and Coders team will review your update and record feedback.
 
 ## Weekly Learnings
-- [Week 1-3](/Week_1-3.md)
-- [Week 4-6](/Week_4-6.md)
-- [Week 7-9](/Week_7-9.md)
-- [Week 10-12. Tech for Better Project](/Tech-For-Better-Project.md)
+- [Week 1](/Week_01.md)
+- [Week 2](/Week_02.md)
+- [Week 3](/Week_03.md)
+- [Week 4](/Week_04.md)
+- [Week 5](/Week_05.md)
+- [Week 6](/Week_06.md)
+- [Week 7](/Week_07.md)
+- [Week 8](/Week_08.md)
+- [Week 9](/Week_09.md)
+- [Week 10](/Week_10.md)
+- [Week 11](/Week_11.md)
+- [Week 12](/Week_12.md)
+- [Week 13](/Week_13.md)
+- [Week 14](/Week_14.md)
+- [Week 15](/Week_15.md)
+
+
