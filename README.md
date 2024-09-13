@@ -30,3 +30,6 @@ On the following Monday, the Founders and Coders team will review your update an
 - [Week 13](/Week_13.md)
 - [Week 14](/Week_14.md)
 - [Week 15](/Week_15.md)
+
+You can check Tomaso's progress log to get an idea about what we expect:
+https://github.com/fac28/Tommaso-progress-log/blob/main/Week_1.md
