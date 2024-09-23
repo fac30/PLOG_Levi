@@ -8,12 +8,23 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 
 ## Assessment
  ### 1. Show evidence of some of the learning outcomes you have achieved this week.
-> **[Learning outcomes...]**  
-> [your evidence here]
+> Application successfully deployed.
+>
+> Used separate components in AWS to deploy our application, whilst also using these components to keep our keys and other credentials safe. Here's an example of me using secrets manager.  
+>  <img width="1024" alt="Screenshot 2024-09-23 at 10 04 40" src="https://github.com/user-attachments/assets/274d31dc-742f-45e7-ba31-66fdfa375cd6">
+ 
 
  ### 2. Show an example of some of the learning outcomes you have struggled with and/or would like to re-visit.
-> [**Learning outcome...**]  
-> [your evidence here]
+> Somewhere I would like to re-visit, as it was difficult, was to frag all .env file keys into the secrets manager, I to only be accessible depending on the environment to which someone is visiting. For e.g. in staging, the keys are not accessible to anyone, but in production, the keys are accessible to the devs only.   
+>
+> <img width="806" alt="Screenshot 2024-09-23 at 10 12 41" src="https://github.com/user-attachments/assets/33a41f9c-38f3-4d37-8b7e-669231ab7c64">
+>
+> <img width="601" alt="Screenshot 2024-09-23 at 10 12 49" src="https://github.com/user-attachments/assets/512d9736-c8cd-4193-808c-8dd29cd535d6">
+
+
+
+
+
 
 ## Feedback (For CF's)
 > [**Course Facilitator name**]  
