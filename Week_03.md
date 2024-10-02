@@ -25,6 +25,14 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Very good code snippet. It helps to understand what a github actions yml file is and how it works.
+
 > [*Even better if*]
+
+Intead of pasting the whole file you could split it in chunks and explain what each. There is no need to explain the whole code, just a couple of them that are more significant.
