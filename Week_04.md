@@ -22,6 +22,13 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 > I want to develop my understanding in the importance of JSON packages, and it's use in node and the steps I run in my pipelines. 
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+> 
+A working CI/CD pipeline is quite tricky, it is great that you created a working one
+
 > [*Even better if*]
+You could detail a bit more the learnings. What the pipelines does, who triggers it, what kind of problems you had, was it permissions related? how you solved them...
