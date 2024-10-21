@@ -24,6 +24,11 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 > <img width="923" alt="Screenshot 2024-10-18 at 10 40 32" src="https://github.com/user-attachments/assets/21992d93-3f6a-4dc0-a1f2-eefbbb6bc848">
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
+> [**Course Facilitator name**]
+
+Alexander
+ 
 > [*What went well*]  
-> [*Even better if*]
+
+Looks like you are building solid foundations on Terraform, it is not an easy topic so dont worry if it feels hard at the beggining.
+Your FE deployment problem looks more like a building problem, maybe the typescript config file is wrong
