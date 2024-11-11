@@ -7,12 +7,14 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 
 ## Assessment
  ### 1. Show evidence of some of the learning outcomes you have achieved this week.
-> **[Learning outcomes...]**  
-> [your evidence here]
+> This week I focused on my technical skills surrounding Python and Terraform.
+> I also focused on reading and understanding DevOps/Cloud principles - to further strengthen my understanding of the role I'm doing and the work I complete. 
 
  ### 2. Show an example of some of the learning outcomes you have struggled with and/or would like to re-visit.
-> [**Learning outcome...**]  
-> [your evidence here]
+> My struggles are due to some technical issues.
+> I really want to understand things such as:
+  >  ports {port 3000 etc}
+  >  the ways in which firewalls work.  
 
 ## Feedback (For CF's)
 > [**Course Facilitator name**]  
