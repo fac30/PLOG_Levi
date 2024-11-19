@@ -22,6 +22,14 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Good research into AWS networking concepts, showing understanding of VPC, subnets, and security groups relationships. Practical learning about cost implications of AWS architecture decisions.
+
 > [*Even better if*]
+
+Show your Terraform code, even the version you had to strip back. Include specific configurations you tried for VPC and security groups since you mentioned working with them.
