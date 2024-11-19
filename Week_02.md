@@ -27,6 +27,14 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Basic understanding of AWS Secrets Manager for credential management and deployment concepts.
+
 > [*Even better if*]
+
+Show actual code for your Secrets Manager implementation since you mentioned it. Provide specific examples of how you attempted to manage different environment credentials, even if unsuccessful.
